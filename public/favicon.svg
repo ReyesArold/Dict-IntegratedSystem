@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="DICT Abra">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#071a2f"/>
+      <stop offset="1" stop-color="#0e3c5e"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="10" fill="url(#bg)"/>
+  <circle cx="24" cy="24" r="16.2" fill="none" stroke="#91dcff" stroke-opacity=".2" stroke-width="1" stroke-dasharray="2 3"/>
+  <path d="M12.7 35.8 24 12.2l11.3 23.6" fill="none" stroke="#f7fbfe" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 27.1h14" stroke="#f9cb47" stroke-width="2.6" stroke-linecap="round"/>
+  <circle cx="24" cy="12.2" r="3.2" fill="#91dcff"/>
+  <circle cx="24" cy="12.2" r="1.3" fill="#0f304b"/>
+  <circle cx="12.7" cy="35.8" r="2.7" fill="#fff"/>
+  <circle cx="35.3" cy="35.8" r="2.7" fill="#fff"/>
+  <circle cx="24" cy="27.1" r="2.6" fill="#f9cb47"/>
+  <circle cx="24" cy="27.1" r="1.1" fill="#0f304b"/>
+</svg>
